@@ -1,0 +1,33 @@
+
+math class
+
+
+https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html
+
+Scanner
+
+import java.until.Scanner
+
+
+Scanner in = new Scanner
+
+
+
+s1.compareto(s2)<0  s1<s2
+>0 
+
+relational operators
+and : &&
+or: ||
+not : !
+conditional operators if else then
+boolean expression ? expression1 : expression2
+
+
+type conversion:
+int A;
+double X;
+short B;
+
+
+
